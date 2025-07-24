@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Danielopez27/Danielopez27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 👋 ¡Hola! Soy Daniel López
+### 👋 ¡Hola! Soy Daniel López
 
 🎓 **Estudiante de Ingeniería de Sistemas y Computación** en la Universidad Nacional de Colombia  
 🛡️ **Analista de Ciberseguridad** con experiencia en centros de operaciones de seguridad (SOC)  
