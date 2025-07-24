@@ -38,6 +38,6 @@ Implementaciones de interpolación, integración numérica y derivación con pre
 
 ---
 
-🔗 Me puedes encontrar en [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/daniel-esteban-l%C3%B3pez-guaca-b19782318))
+🔗 Me puedes encontrar en [LinkedIn](https://www.linkedin.com/in/daniel-esteban-l%C3%B3pez-guaca-b19782318)
 
 Gracias por visitar mi perfil 👨‍💻✨
